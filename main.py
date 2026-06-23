@@ -1,10 +1,10 @@
 import sys
 from task_manager.task_service import add, update, delete, task_list, mark_in_progress, done, todo, in_progress
  
-command = sys.argv[1] #first arg from command (add, update, delete)
+ #first arg from command (add, update, delete)
 
-def main(command):
-    
+def main():
+    command = sys.argv[1]
     #for adding an new task
     if command == "add":
         if len(sys.argv) < 3:

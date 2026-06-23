@@ -22,7 +22,9 @@ classifiers = [
 task-cli ="main:main"
 
 
-[project-urls]
-Homepage = https://github.com/Neo110Matrix/task_cli
-repo_url = https://github.com/Neo110Matrix/task_cli
+[project.urls]
+Homepage = "https://github.com/Neo110Matrix/task_cli"
+Repository = "https://github.com/Neo110Matrix/task_cli"
 
+[tool.hatch.build.targets.wheel]
+packages = ["task_manager"]
