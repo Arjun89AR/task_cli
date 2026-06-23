@@ -1,9 +1,14 @@
 # Task CLI Project
 
+<<<<<<< HEAD
 Project URL: https://github.com/your-username/task_cli
 
 
 A simple CLI tool for managing tasks...
+
+Project Page Url : https://github.com/Neo110Matrix/task_cli
+
+
 
 A simple command-line task manager built with Python. This project allows you to create, update, delete, and manage tasks directly from your terminal.
 
