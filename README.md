@@ -1,6 +1,6 @@
 # Task CLI Project
 
-🔗 Project URL: https://github.com/your-username/task_cli
+Project URL: https://github.com/your-username/task_cli
 
 
 A simple CLI tool for managing tasks...
