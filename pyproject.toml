@@ -4,8 +4,8 @@ build-backend = "hatchling.build"
 
 
 [project]
-name = "task-cli"
-version = "1.0.0"
+name = "Neo-task-cli"
+version = "1.0.5"
 authors = [
 		{ name ="Arjun", email = "arjunjayakumar371@gmail.com" } 
 		]		
@@ -19,7 +19,7 @@ classifiers = [
 #license=""
 
 [project.scripts]
-task-cli ="main:main"
+task-cli ="task_manager.cli:main"
 
 
 [project.urls]

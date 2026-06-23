@@ -16,8 +16,15 @@ A simple command-line task manager built with Python. This project allows you to
 ---
 
 ## Installation
+### Option 1: Using pip
 
-### Option 1: Clone and Install
+create your virtual environment
+
+pip install Neo-task-cli
+
+task-cli list
+
+### Option 2: Clone and Install
 
 git clone https://github.com/YOUR_GITHUB_USERNAME/task-cli.git
 
